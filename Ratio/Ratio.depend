@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456015677 source:c:\users\fokin_000\desktop\developpement\torrent analysis\ratio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
